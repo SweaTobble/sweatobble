@@ -1,16 +1,15 @@
-## Hi there 👋
+## > Enter repository.
 
-<!--
-**SweaTobble/sweatobble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Well. You're here now. Seems like a place full of wild magic and bad decisions.]
+[A technomancer is currently attempting to corral her unruly creations.]
 
-Here are some ideas to get you started:
+I'm sorry this page is really chaotic, it's just-[dodges fireball]-the economy, you know? 
+Uh, there's a room, here, to the side, where you can-[briefly recalibrates ideatic shielding]-stay! 
+Be right with you, once the-[THWOOM]-HOLY *SHIT*, STEPHEN, ARE YOU KIDDING ME?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[… you decide to leave her to it.]
+
+An open computer terminal beckons, promising delicious bounties of lore. 
+When you get closer, however, it looks… messy. Oh well.
+
+## > Press any key to continue.
